@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #303960;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 2.5rem;
+  color: #303960;
+}
+
+h3 {
+  font-family: 'Slabo 27px', serif;
+  color: #11999E;
+}
+
+span {
+  text-decoration: underline;
+}
+
+hr {
+  border-color: white;
+  border-style: none none dotted none;
+  width: 5%;
+  border-width: 10px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.pro {
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #63b7af;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  display: block;
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.middle-container {
+  background-color: #abf0e9;
+  padding-bottom: 75px;
+}
+
+.bottom-container {
+  background-color: #8db1ab;
+  padding: 10px 0 50px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.footer-link {
+  color: #1b6ca8;
+  font-family: 'Nunito Sans', sans-serif;
+  margin: 10px 15px;
+  text-decoration:
+}
+
+.footer-link:hover{
+  color:#eaf6f6;
+}
+
+.profile-img {
+  width: 125px;
+  height: 125px;
+  margin-top: 2%;
+}
+
+.skill1-img {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill2-img {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.button {
+  background-color: #303960;
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+}
